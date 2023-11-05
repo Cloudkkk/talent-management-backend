@@ -3,6 +3,13 @@
 
 > 后端代码
 > 技术栈：node+express+sqlite
+### 本地启动
+``` 
+git clone xx
+cd talent-management-backend 
+npm i 
+npm run dev
+```
 
 ### 项目结构
 ```
